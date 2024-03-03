@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Coding For Article.iml" filepath="$PROJECT_DIR$/.idea/Coding For Article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOImpl/DAOImpl.iml" filepath="$PROJECT_DIR$/DAOImpl/DAOImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOImplWithJPA/DAOImplWithJPA.iml" filepath="$PROJECT_DIR$/DAOImplWithJPA/DAOImplWithJPA.iml" />
     </modules>
   </component>
 </project>
